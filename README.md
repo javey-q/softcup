@@ -22,5 +22,5 @@ yolov4.h5为yolov4的权重，须放在model_data文件夹下
 另外两个为deeplab所需权重，须放在config文件夹下
 
 Reference：
-https://github.com/bubbliiiing/yolov4-keras
-https://github.com/bowenc0221/panoptic-deeplab
+- https://github.com/bubbliiiing/yolov4-keras
+- https://github.com/bowenc0221/panoptic-deeplab
