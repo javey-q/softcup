@@ -2,7 +2,7 @@
 实现功能 ：视频目标检测、全景分割、目标跟踪，以及目标计数
 ### 解决思路
 用Yolov4和Deepsort进行detection+track，使用Panoptic-DeepLab进行全景分割，检测器进行目标检测，然后跟踪器给每个不同目标一个id， 从而实现不同目标计数的效果。
-### 1.分割
+### 分割
 python  segmentation.py
 所需环境：
 - Linux or macOS with Python ≥ 3.6
